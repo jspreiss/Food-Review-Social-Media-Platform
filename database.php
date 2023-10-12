@@ -1,9 +1,9 @@
 <?php
 
-$host = "sql311.epizy.com";
-$dbname = "epiz_34295265_fruit";
-$username = "epiz_34295265";
-$password = "pT7olk3yr8nHKA8";
+$host = "";
+$dbname = "";
+$username = "";
+$password = "";
 
 $mysqli = new mysqli(hostname: $host,
                      username: $username,
